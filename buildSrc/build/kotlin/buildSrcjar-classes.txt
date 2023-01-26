@@ -1,0 +1,1 @@
+/Users/william/AndroidStudioProjects/PocketNews/buildSrc/build/classes/kotlin/main/Library.class:/Users/william/AndroidStudioProjects/PocketNews/buildSrc/build/classes/kotlin/main/Version.class
